@@ -1,0 +1,10 @@
+#Última modificación
+#Sun Sep 16 18:15:42 CEST 2018
+pathMysql=
+dbhost=localhost
+dbconector=mysql
+dbdriver=com.mysql.jdbc.Driver
+dbpassword=root21
+dbuser=root
+dbport=3306
+dbname=biblioteca
